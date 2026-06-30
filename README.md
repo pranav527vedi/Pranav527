@@ -15,9 +15,6 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav&show_icons=true&theme=radical)
 
-## 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranav&theme=radical)
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-vaghela-0079802b0/)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranava_527)
