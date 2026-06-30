@@ -3,9 +3,9 @@
 🎓 CS Engineering student | 🤖 Exploring AI/ML & Data Science
 
 ## 🚀 What I'm working on
-- Building ML projects (Spam Detector, PDF Chatbot)
+- Building ML projects 
 - Grinding Codeforces (Java) for DSA
-- ML A-Z course - currently on classification models
+- ML A-Z course 
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
